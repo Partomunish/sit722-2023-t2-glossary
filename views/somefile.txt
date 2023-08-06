@@ -1,0 +1,90 @@
+
+DevOps
+An approach to software engineering that aims to align software developers and operations staff. In this way, there is nonconflicting tasking and a seamless transition of project artifacts via interoperable processes and tools.
+Cois, C. A., Yankel, J., & Connell, A. (2014, October). Modern DevOps: Optimizing software development through effective system interactions. In 2014 IEEE international professional communication conference (IPCC) (pp. 1-7). IEEE.
+
+Agile
+An approach to software development that entails a set of values and principles that ensure the delivery of high-quality software products to customers through an adaptive, incremental, and iterative approach. It involves cross-functional and self-organized teams working collaboratively to achieve the desired outcomes.
+Gheorghe, A. M., Gheorghe, I. D., & Iatan, I. L. (2020). Agile Software Development. Informatica Economica, 24(2).
+Kuhrmann, M., Tell, P., Hebig, R., Klünder, J., Münch, J., Linssen, O., ... & Richardson, I. (2021). What makes agile software development agile?. IEEE transactions on software engineering, 48(9), 3523-3539.
+
+Deployment
+The process of releasing and installing software applications or updates onto target systems. Doing so makes the software operational and available for end-users.
+Pressman, R. S. (2005). Software engineering: a practitioner's approach. Palgrave macmillan.
+
+Release
+The specific version or iteration of a software product that is made available to end-users or customers. It represents a stable and tested state of the software, ready for deployment in production or distribution to the target audience.
+Pressman, R. S. (2005). Software engineering: a practitioner's approach. Palgrave macmillan.
+
+Stakeholder
+Any individual, group, or organization that has an interest or influence in the software project. Stakeholders can have various roles and levels of involvement throughout the software development lifecycle. any individual, group, or organization that has an interest or influence in the software project. Stakeholders can have various roles and levels of involvement throughout the software development lifecycle.
+Pressman, R. S. (2005). Software engineering: a practitioner's approach. Palgrave macmillan.
+
+Cloud computing
+A technology that allows users to access and use computing services, like storage and software, over the internet. Instead of relying on their own computers or servers, users can use remote resources hosted by providers.
+Erl, T., Puttini, R., & Mahmood, Z. (2013). Cloud computing: concepts, technology & architecture. Pearson Education.
+Alam, T. (2020). Cloud Computing and its role in the Information Technology. IAIC Transactions on Sustainable Digital Innovation (ITSDI), 1(2), 108-115.
+
+Microservices Application
+Software where a large application is broken down into smaller, independent services that can be developed, deployed, and managed separately. This approach aims to enhance flexibility, scalability, and maintainability of the overall system.
+Newman, S. (2021). Building microservices. " O'Reilly Media, Inc.".
+Davis, A. (2021). Bootstrapping Microservices with Docker, Kubernetes, and Terraform: A project-based guide. Simon and Schuster.
+
+Microservice
+A self-contained unit with its own specific functionality. It communicates with other microservices in the application through well-defined APIs.
+Newman, S. (2021). Building microservices. " O'Reilly Media, Inc.".
+Davis, A. (2021). Bootstrapping Microservices with Docker, Kubernetes, and Terraform: A project-based guide. Simon and Schuster.
+
+Kubernetes
+An open-source container orchestration platform used for automating the deployment, scaling, and management of containerized applications. It provides a robust system for coordinating and scheduling containers across a cluster of nodes. This allows applications to run consistently and reliably in various environments.
+Hightower, K., Burns, B., & Beda, J. (2017). Kubernetes: Up and Running Dive into the Future of Infrastructure. OReilly Media. Inc., Sebastopol.
+Davis, A. (2021). Bootstrapping Microservices with Docker, Kubernetes, and Terraform: A project-based guide. Simon and Schuster.
+
+Docker
+An open-source platform that enables developers to automate the deployment, scaling, and management of applications within containers. In this context, containers refer to lightweight, portable, and self-sufficient units that package the application's code and all its dependencies.
+Poulton, N. (2023). Docker Deep Dive: Zero to Docker in a single book. NIGEL POULTON LTD.
+Davis, A. (2021). Bootstrapping Microservices with Docker, Kubernetes, and Terraform: A project-based guide. Simon and Schuster.
+
+Container
+A lightweight, standalone, and executable software package that includes everything needed to run a piece of software. A container typically includes code, runtime, system tools, libraries, and settings.
+Poulton, N. (2023). Docker Deep Dive: Zero to Docker in a single book. NIGEL POULTON LTD.
+Zhang, Q., Liu, L., Pu, C., Dou, Q., Wu, L., & Zhou, W. (2018, July). A comparative study of containers and virtual machines in big data environment. In 2018 IEEE 11th International Conference on Cloud Computing (CLOUD) (pp. 178-185). IEEE.
+
+Cluster
+A group of interconnected computers or servers that work together to provide a higher level of performance, availability, and reliability. In DevOps, clusters are often used to manage and distribute containerized applications, as in the case of Kerbernetes clusters.
+Hightower, K., Burns, B., & Beda, J. (2017). Kubernetes: Up and Running Dive into the Future of Infrastructure. OReilly Media. Inc., Sebastopol.
+
+Virtual Machine
+A software-based emulation of a physical computer. It allows multiple operating systems to run on a single physical machine, enabling greater resource utilization and isolation.
+Smith, J. E., & Nair, R. (2005). The architecture of virtual machines. Computer, 38(5), 32-38.
+Zhang, Q., Liu, L., Pu, C., Dou, Q., Wu, L., & Zhou, W. (2018, July). A comparative study of containers and virtual machines in big data environment. In 2018 IEEE 11th International Conference on Cloud Computing (CLOUD) (pp. 178-185). IEEE.
+
+Image
+A snapshot of a container or a virtual machine, capturing the application code, dependencies, and configurations. It serves as a template for creating consistent and reproducible environments.
+Poulton, N. (2023). Docker Deep Dive: Zero to Docker in a single book. NIGEL POULTON LTD.
+
+Continuous Integration
+A development practice where code changes are frequently integrated into a shared repository. Each integration triggers automated testing and verification processes to ensure code quality and detect issues early.
+Arachchi, S. A. I. B. S., & Perera, I. (2018, May). Continuous integration and continuous delivery pipeline automation for agile software project management. In 2018 Moratuwa Engineering Research Conference (MERCon) (pp. 156-161). IEEE.
+
+Continuous Delivery
+An extension of Continuous Integration, where code changes that pass automated testing are automatically deployed to production or staging environments. The aim here is to accelerate the delivery of software updates.
+Arachchi, S. A. I. B. S., & Perera, I. (2018, May). Continuous integration and continuous delivery pipeline automation for agile software project management. In 2018 Moratuwa Engineering Research Conference (MERCon) (pp. 156-161). IEEE.
+
+Behaviour-Driven Design
+A software development approach that encourages collaboration between developers, quality assuarance, and non-technical stakeholders. The outcome of this collaboration is that the software is designed around the behaviour users are expected to demonstrate when using it.
+Binamungu, L. P., Embury, S. M., & Konstantinou, N. (2018, March). Maintaining behaviour driven development specifications: Challenges and opportunities. In 2018 IEEE 25th International Conference on Software Analysis, Evolution and Reengineering (SANER) (pp. 175-184). IEEE.
+Alhaj, M., Arbez, G., & Peyton, L. (2019). Approach of integrating behaviour-driven development with hardware/software codesign. Int. J. Innov. Comput. Inf. Control, 15(3), 1177-1191.
+
+Test-Driven Design
+A software development approach where developers write tests before writing the actual code. The aim here is to promote code quality, maintainability, and to ensure that the code meets its specified requirements.
+Ekman, F., Johannesson, S., Peber, E., & Sandberg, C. Test-Driven Development: Drawbacks, Benefits, Industrial Usage and Complementary Methods.
+Pombo, N., & Martins, C. (2021, July). Test Driven Development in Action: Case Study of a Cross-Platform Web Application. In IEEE EUROCON 2021-19th International Conference on Smart Technologies (pp. 352-356). IEEE.
+
+Infrastructure as Code
+A methodology that treats infrastructure provisioning, configuration, and management as software development tasks. It treats infrastructure components as code artifacts, allowing for consistency, version control, and reproducibility.
+Sokolowski, D. (2022, November). Infrastructure as code for dynamic deployments. In Proceedings of the 30th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (pp. 1775-1779).
+
+Dependency
+A software component or library that is required for a system to function correctly. Dependencies can be external libraries, modules, or services that are used by an application.
+Pressman, R. S. (2005). Software engineering: a practitioner's approach. Palgrave macmillan.
