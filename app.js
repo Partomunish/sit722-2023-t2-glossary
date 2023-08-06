@@ -20,7 +20,7 @@ app.get("/", (request, response, next) => {
 });
 
 app.get("/glossary-items", (request, response) => {
-    let filename = "C:\\Users\\USER\\Documents\\T2\\sit722-2023-t2-glossary\\views\\somefile.txt"
+    let filename = "glossary-content/content.txt"
     fs.readFile(filename, 'utf8', (err, data) => {
         if (err) {
             console.error(err);
