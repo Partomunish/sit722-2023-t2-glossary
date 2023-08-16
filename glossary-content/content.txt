@@ -88,3 +88,49 @@ Sokolowski, D. (2022, November). Infrastructure as code for dynamic deployments.
 Dependency
 A software component or library that is required for a system to function correctly. Dependencies can be external libraries, modules, or services that are used by an application.
 Pressman, R. S. (2005). Software engineering: a practitioner's approach. Palgrave macmillan.
+
+Minimum Viable Product (MVP)
+The first version of a software product that actually meets tyhe requirements of the customer. It has the minimum features required to satisfy early customers and gather feedback.
+Mulder, J. (2021). Enterprise DevOps for Architects: Leverage AIOps and DevSecOps for secure digital transformation. Packt Publishing Ltd.
+
+Definition of Done (DoD)
+The first instance when a software product is really finished and meets the goals that have been set. There needs to be a clear and agreed-upon set of criteria that must be met for a product to be considered complete and ready for release.
+Mulder, J. (2021). Enterprise DevOps for Architects: Leverage AIOps and DevSecOps for secure digital transformation. Packt Publishing Ltd.
+
+Tier
+A distinct level or layer within an application architecture or infrastructure. Tiers are often used to categorize and manage components with specific functionalities.
+Tsui, F., Karam, O., & Bernal, B. (2022). Essentials of software engineering. Jones & Bartlett Learning.
+
+Mean Time to Recovery (MTTR)
+The average time required to restore a system, service, or application to full functionality after a failure or incident. In this way, it is a measure of the efficiency of incident response and recovery processes.
+Mulder, J. (2021). Enterprise DevOps for Architects: Leverage AIOps and DevSecOps for secure digital transformation. Packt Publishing Ltd.
+Tsui, F., Karam, O., & Bernal, B. (2022). Essentials of software engineering. Jones & Bartlett Learning.
+
+Change Lead Time
+The duration it takes for a code change or update following the latest release. It reflects the speed of the development and the overall efficiency of the team.
+Mulder, J. (2021). Enterprise DevOps for Architects: Leverage AIOps and DevSecOps for secure digital transformation. Packt Publishing Ltd.
+Tsui, F., Karam, O., & Bernal, B. (2022). Essentials of software engineering. Jones & Bartlett Learning.
+
+Full Cycle Time
+The duration of each iteration or each deployment. It relates to the time it takes for a user story or feature to move from the planning stage to being fully implemented, tested, and deployed into production.
+Mulder, J. (2021). Enterprise DevOps for Architects: Leverage AIOps and DevSecOps for secure digital transformation. Packt Publishing Ltd.
+Tsui, F., Karam, O., & Bernal, B. (2022). Essentials of software engineering. Jones & Bartlett Learning.
+
+VOICE Model
+An acronym for Value, Opportunity, Innovation, Customers, and Experience. It is a framework used to prioritize and evaluate the features of a software product by considering its potential impact and alignment with business goals.
+Mulder, J. (2021). Enterprise DevOps for Architects: Leverage AIOps and DevSecOps for secure digital transformation. Packt Publishing Ltd.
+Gheorghe, A. M., Gheorghe, I. D., & Iatan, I. L. (2020). Agile Software Development. Informatica Economica, 24(2).
+
+NoSQL
+A category of database systems designed for storing and retrieving large volumes of unstructured or semi-structured data. Unlike traditional relational databases, these databases offer flexible and scalable data models suitable for modern applications.
+Connolly, T. M., & Begg, C. E. (2005). Database systems: a practical approach to design, implementation, and management. Pearson Education.
+
+YAML
+A recursive acronym for 'YAML Ain't Markup Language'. Overall, it is a human-readable data serialization format used for configuration files and data exchange between applications.
+Eriksson, M., & Hallberg, V. (2011). Comparison between JSON and YAML for data serialization. The School of Computer Science and Engineering Royal Institute of Technology, 1-25.
+Davis, A. (2021). Bootstrapping Microservices with Docker, Kubernetes, and Terraform: A project-based guide. Simon and Schuster.
+
+RESTful Definition
+Short for Representational State Transfer. It is a software architectural style for designing web applications. It emphasizes using standardized HTTP methods (GET, POST, PUT, DELETE) to interact with resources in a stateless and scalable manner.
+Richardson, L., & Ruby, S. (2008). RESTful web services. " O'Reilly Media, Inc.".
+Schreier, S. (2011, March). Modeling restful applications. In Proceedings of the second international workshop on restful design (pp. 15-21).
