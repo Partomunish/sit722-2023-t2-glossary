@@ -134,3 +134,47 @@ RESTful Definition
 Short for Representational State Transfer. It is a software architectural style for designing web applications. It emphasizes using standardized HTTP methods (GET, POST, PUT, DELETE) to interact with resources in a stateless and scalable manner.
 Richardson, L., & Ruby, S. (2008). RESTful web services. " O'Reilly Media, Inc.".
 Schreier, S. (2011, March). Modeling restful applications. In Proceedings of the second international workshop on restful design (pp. 15-21).
+
+Terraform
+An open-source Infrastructure as Code (IaC) tool that allows you to define and provision infrastructure resources like virtual machines, networks, and storage in a declarative configuration file. It then automates the provisioning and management of these resources across various cloud providers and platforms.
+Brikman, Y. (2022). Terraform: Up and Running. " O'Reilly Media, Inc.".
+Sindhu, G., & Pavithra, D. R. Deploying a Kubernetes Cluster with Kubernetes-Operation (kops) on AWS Cloud: Experiments and Lessons Learned.
+
+Git
+A distributed version control system (VCS) used for tracking changes in source code during software development. It enables multiple developers to collaborate on a project, tracks revisions, and facilitates the management of code branches and merges.
+Brikman, Y. (2022). Terraform: Up and Running. " O'Reilly Media, Inc.".
+
+Executable Documentation
+Documentation that describes a system or process and contains code or scripts that can be executed to demonstrate or validate the described functionality. It is often used in DevOps to create living documentation that stays in sync with the actual system.
+Brikman, Y. (2022). Terraform: Up and Running. " O'Reilly Media, Inc.".
+Sindhu, G., & Pavithra, D. R. Deploying a Kubernetes Cluster with Kubernetes-Operation (kops) on AWS Cloud: Experiments and Lessons Learned.
+
+Command-Line Interface (CLI)
+A text-based interface used to interact with a computer program or operating system by entering commands and parameters via a command line. CLIs are often used in DevOps for tasks like configuring and managing software and infrastructure.
+Brikman, Y. (2022). Terraform: Up and Running. " O'Reilly Media, Inc.".
+
+Kubectl
+A command-line utility used to interact with and manage Kubernetes clusters. It allows users to run commands to create, inspect, update, and delete Kubernetes resources.
+Brikman, Y. (2022). Terraform: Up and Running. " O'Reilly Media, Inc.".
+
+Kubernetes Node
+A physical or virtual machine that serves as part of a cluster. Nodes run containerized applications managed by Kubernetes and provide the computing resources required to run those applications.
+Salecha, R. (2022). Spring Boot App on AWS EKS. In Practical GitOps: Infrastructure Management Using Terraform, AWS, and GitHub Actions (pp. 263-321). Berkeley, CA: Apress.
+Brikman, Y. (2022). Terraform: Up and Running. " O'Reilly Media, Inc.".
+
+Kubernetes Pod
+The smallest deployable unit in a Kubernetes cluster. It can contain one or more containers that share the same network and storage resources. In this way, pods are used to deploy and scale containerized applications.
+Salecha, R. (2022). Spring Boot App on AWS EKS. In Practical GitOps: Infrastructure Management Using Terraform, AWS, and GitHub Actions (pp. 263-321). Berkeley, CA: Apress.
+Brikman, Y. (2022). Terraform: Up and Running. " O'Reilly Media, Inc.".
+
+HashiCorp Configuration Language (HCL)
+A domain-specific language used for writing configuration files that define Infrastructure as Code. It is commonly used with HashiCorp tools such as Terraform and Consul.
+Sabharwal, N., Pandey, S., & Pandey, P. Infrastructure-as-Code Automation Using Terraform, Packer, Vault, Nomad and Consul.
+
+Man-in-the-Middle
+A cyberattack where an attacker intercepts and potentially modifies communications between two parties without their knowledge. These attacks can be used to eavesdrop on or manipulate data transmitted between systems.
+Chuka-Maduji, N., & Anu, V. (2021). Cloud computing security challenges and related defensive measures: A survey and taxonomy. SN Computer Science, 2(4), 331.
+
+Live Reload
+A development feature that automatically refreshes or reloads a web application's user interface in real-time as code changes are made. It is commonly used to accelerate the development and testing of web applications.
+Williams, L., Beck, K., Creasey, J., Glover, A., Holman, J., Humble, J., ... & Parnin, C. (2020). Continuous Deployment Transitions at Scale. In Tools and Techniques for Software Development in Large Organizations: Emerging Research and Opportunities (pp. 168-181). IGI Global.
