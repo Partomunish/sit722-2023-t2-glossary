@@ -178,3 +178,44 @@ Chuka-Maduji, N., & Anu, V. (2021). Cloud computing security challenges and rela
 Live Reload
 A development feature that automatically refreshes or reloads a web application's user interface in real-time as code changes are made. It is commonly used to accelerate the development and testing of web applications.
 Williams, L., Beck, K., Creasey, J., Glover, A., Holman, J., Humble, J., ... & Parnin, C. (2020). Continuous Deployment Transitions at Scale. In Tools and Techniques for Software Development in Large Organizations: Emerging Research and Opportunities (pp. 168-181). IGI Global.
+
+Bitbucket
+A web-based platform for version control and collaboration. It provides Git repositories for storing and managing source code and also offers features for issue tracking, code reviews, and continuous integration.
+Davis, A. (2021). Bootstrapping Microservices with Docker, Kubernetes, and Terraform: A project-based guide. Simon and Schuster.
+
+Bitbucket Pipelines
+A continuous integration and continuous delivery service provided by Bitbucket. It allows you to automate building, testing, and deploying code changes from your Bitbucket repositories.
+Davis, A. (2021). Bootstrapping Microservices with Docker, Kubernetes, and Terraform: A project-based guide. Simon and Schuster.
+
+Local Variables
+Variables that are defined within a specific scope, such as a function or block of code. They have limited visibility and are typically used to store temporary data within that scope.
+Tsui, F., Karam, O., & Bernal, B. (2022). Essentials of software engineering. Jones & Bartlett Learning.
+
+Environment Variables
+Variables that are set at the system or environment level. They can be set or accessed by processes and applications. Overall, they are used to store configuration settings, credentials, and other information needed by software.
+Tsui, F., Karam, O., & Bernal, B. (2022). Essentials of software engineering. Jones & Bartlett Learning.
+
+GitLab
+A web-based platform for DevOps that provides version control with Git repositories, continuous integration and continuous delivery pipelines, issue tracking, code review. It has become increasingly useful over the years because it provides a comprehensive set of tools for software development and collaboration.
+Loeliger, J., & McCullough, M. (2012). Version Control with Git: Powerful tools and techniques for collaborative software development. " O'Reilly Media, Inc.".
+
+Pull Request
+A feature in version control systems and related platforms that entails a request to merge code changes from one branch into another branch. This request is used to facilitate code review, discussion, and testing before incorporating the proposed changes into the target branch.
+Loeliger, J., & McCullough, M. (2012). Version Control with Git: Powerful tools and techniques for collaborative software development. " O'Reilly Media, Inc.".
+
+Push
+The action of uploading local code changes from a developer's local repository to a remote repository. This action is used to share code updates with other team members and to update the remote repository's branches.
+Loeliger, J., & McCullough, M. (2012). Version Control with Git: Powerful tools and techniques for collaborative software development. " O'Reilly Media, Inc.".
+
+Debugging
+The process of identifying, analyzing, and fixing defects, errors, or unexpected behavior in software. It involves using tools, logs, and techniques to diagnose and resolve such issues.
+Tsui, F., Karam, O., & Bernal, B. (2022). Essentials of software engineering. Jones & Bartlett Learning.
+
+Deployment Pipeline
+A deployment pipeline is an automated process that builds, tests, and deploys code changes from development to production. In this way, it ensures that code changes are consistently and safely promoted to different environments.
+Arachchi, S. A. I. B. S., & Perera, I. (2018, May). Continuous integration and continuous delivery pipeline automation for agile software project management. In 2018 Moratuwa Engineering Research Conference (MERCon) (pp. 156-161). IEEE.
+
+MongoDB
+A NoSQL database management system that stores data in a flexible, document-oriented format. It is designed for scalability and can handle large volumes of semi-structured or unstructured data.
+Membrey, P., Plugge, E., Hawkins, D., & Hawkins, T. (2010). The definitive guide to MongoDB: the noSQL database for cloud and desktop computing. springer.
+Copeland, R. (2013). MongoDB Applied Design Patterns: Practical Use Cases with the Leading NoSQL Database. " O'Reilly Media, Inc.".
